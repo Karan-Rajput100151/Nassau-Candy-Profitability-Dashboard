@@ -2178,7 +2178,7 @@ st.markdown("---")
 st.markdown(f"""
 <div style="text-align:center; color:{PALETTE['text_muted']}; font-size:0.8rem; padding:12px 0;">
   🍬 Product Line Profitability & Margin Performance Analysis for Nassau Candy Distributor <br>
-  Created by <span style='color:#6C63FF;'>Shakeer</span> 
-    <span style='color:#FF6584;'>Shaik</span>
+  Created by <span style='color:#6C63FF;'>Karan</span> 
+    <span style='color:#FF6584;'>Rajput</span>
 </div>
 """, unsafe_allow_html=True)
